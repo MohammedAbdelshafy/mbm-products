@@ -1,0 +1,60 @@
+{
+  "name": "Money Beast Machine",
+  "publisher": "Mohammed Abdelshafy",
+  "canonical_index": "https://github.com/MohammedAbdelshafy/mbm-products",
+  "products": [
+    {
+      "slug": "dataclean-ai",
+      "name": "DataClean AI",
+      "url": "https://dataclean-ai.hatchable.site",
+      "sales_url": "https://dataclean-ai-sales-site-adotk1.v2.appdeploy.ai/",
+      "status": "live"
+    },
+    {
+      "slug": "ox-alpha-data-integrity",
+      "name": "OX-Alpha Data Integrity",
+      "url": "https://ox-alpha-data.hatchable.site",
+      "sales_url": "https://ox-alpha-data-integrity-sales-site-38pyxe.v2.appdeploy.ai/",
+      "status": "live"
+    },
+    {
+      "slug": "ai-sales-os",
+      "name": "AI Sales OS",
+      "url": "https://ai-sales-os.hatchable.site",
+      "sales_url": "https://ai-sales-os-sales-site-mrknil.v2.appdeploy.ai/",
+      "status": "live"
+    },
+    {
+      "slug": "cold-calling-assistant",
+      "name": "Cold Calling Assistant",
+      "url": "https://cold-calling.hatchable.site",
+      "status": "live"
+    },
+    {
+      "slug": "revenue-recovery-ai",
+      "name": "Revenue Recovery AI",
+      "url": "https://revenue-recovery-ai.hatchable.site",
+      "status": "live"
+    },
+    {
+      "slug": "clipops-studio",
+      "name": "ClipOps Studio",
+      "url": "https://contentops-ai.hatchable.site",
+      "status": "live"
+    },
+    {
+      "slug": "real-estate-deal-packet",
+      "name": "Real Estate Deal Packet",
+      "url": "https://real-estate-deal-2eic.hatchable.site",
+      "status": "live"
+    }
+  ],
+  "marketplace_targets": [
+    "Whop",
+    "Product Hunt",
+    "Hugging Face",
+    "Replit",
+    "Railway"
+  ],
+  "evidence_rule": "Only mark a target published when the platform returns a verified live URL or listing state."
+}
