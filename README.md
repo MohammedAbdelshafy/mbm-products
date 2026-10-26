@@ -6,7 +6,7 @@ A single page for finding tools and services from Mohammed Abdelshafy.
 
 - **Lead List Cleanup:** organize a customer-authorized CSV/Excel export and explain duplicates or missing fields.
 - **Sales Follow-Up Workspace:** organize stages, next actions and follow-up.
-- **API Key & Usage Checks:** inspect supported usage/configuration risks.
+- **API Spend Guard:** inspect supported usage/configuration risks.
 - **Workflow Starter Kit:** reusable scaffolding for supported tasks.
 - **Workflow Checks:** run the checks the project implements.
 - **Creator Queue:** organize content previews; current image behavior includes a mock backend.
