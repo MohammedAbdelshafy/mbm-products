@@ -12,6 +12,6 @@ A single page for finding tools and services from Mohammed Abdelshafy.
 - **Creator Queue:** organize content previews; current image behavior includes a mock backend.
 - **Reporting Digest:** turn configured inputs into a readable report.
 - **RE Deal Packet:** present provided property facts and assumptions with source notes.
-- **OX-Alpha:** inspect tabular data and produce a report.
+- **OX-Alpha:** inspect tabular data and produce a report. Paid sales are on hold until security issue [#136](https://github.com/MohammedAbdelshafy/jarvis-mbm/issues/136) is resolved and verified.
 
 This list is a navigation page, not a claim that every item is a finished hosted service. Check the linked repository's README and current tests before purchase or deployment. Prices are hypotheses unless the connected checkout and delivery scope have been verified.
