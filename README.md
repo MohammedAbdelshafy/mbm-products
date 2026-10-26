@@ -1,30 +1,17 @@
-# MBM Digital Products
+# MBM Offers
 
-Money Beast Machine product index and buyer entry points.
+A single page for finding tools and services from Mohammed Abdelshafy.
 
-## Live products
+## What is listed
 
-| Product | Use case | Live app | Buyer / sales page |
-|---|---|---|---|
-| DataClean AI | Lead and customer data cleaning, deduplication, validation and qualification | https://dataclean-ai.hatchable.site | https://dataclean-ai-sales-site-adotk1.v2.appdeploy.ai/ |
-| OX-Alpha Data Integrity | Data-integrity hardening for automation pipelines | https://ox-alpha-data.hatchable.site | https://ox-alpha-data-integrity-sales-site-38pyxe.v2.appdeploy.ai/ |
-| AI Sales OS | Prospecting, qualification and sales execution workflows | https://ai-sales-os.hatchable.site | https://ai-sales-os-sales-site-mrknil.v2.appdeploy.ai/ |
-| Cold Calling Assistant | Assisted calling workflows for outbound teams | https://cold-calling.hatchable.site | https://cold-calling.hatchable.site |
-| Revenue Recovery AI | Revenue recovery and follow-up automation | https://revenue-recovery-ai.hatchable.site | https://revenue-recovery-ai.hatchable.site |
-| ClipOps Studio | Long-form content repurposing into short-form assets | https://contentops-ai.hatchable.site | https://contentops-ai.hatchable.site |
-| Real Estate Deal Packet | Buyer-ready real-estate deal packaging | https://real-estate-deal-2eic.hatchable.site | https://real-estate-deal-2eic.hatchable.site |
+- **Lead List Cleanup:** organize a customer-authorized CSV/Excel export and explain duplicates or missing fields.
+- **Sales Follow-Up Workspace:** organize stages, next actions and follow-up.
+- **API Key & Usage Checks:** inspect supported usage/configuration risks.
+- **Workflow Starter Kit:** reusable scaffolding for supported tasks.
+- **Workflow Checks:** run the checks the project implements.
+- **Creator Queue:** organize content previews; current image behavior includes a mock backend.
+- **Scheduled Business Summary:** turn configured inputs into a readable report.
+- **Property Deal Brief:** present provided property facts and assumptions with source notes.
+- **Data Integrity Checkup:** inspect tabular data and produce a report.
 
-## Distribution
-
-This repo is the public index for MBM product discovery. Individual products remain deployed at their canonical live URLs.
-
-- GitHub: source and product index
-- Hatchable: live application runtime
-- Whop: marketplace storefront target
-- Product Hunt: launch target
-- Hugging Face: distribution target where account write permissions are available
-- Replit / Railway: deployment and showcase targets
-
-## Commercial principle
-
-Use the canonical buyer-facing URL for sales and marketplace submissions. Do not claim customer outcomes, marketplace approval, testimonials, or traffic that have not been verified.
+This list is a navigation page, not a claim that every item is a finished hosted service. Check the linked repository's README and current tests before purchase or deployment. Prices are hypotheses unless the connected checkout and delivery scope have been verified.
